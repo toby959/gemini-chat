@@ -227,6 +227,10 @@ ___
 ````
 npm run dev
 ````
+# Si el IDE no toma algún constructor realizar:
+````
+Desde el panel ir a 'setting' => Build, Execution.Deployment => Annotation Process => seleccionar el proyecto 'gemini-chat' => tildar la opción Obtain Processors from project classpath = > 'ok'
+````
 ___
 # Ejecutar el Proyecto ⚙️
 1 - Clona el repositorio en tu máquina local
